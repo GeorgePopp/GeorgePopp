@@ -1,4 +1,4 @@
-Hi I'm George, an actuary working specialising in life insurance.
+Hi I'm George, an actuary specialising in life insurance.
 
 Interests: 
 - Statistics
